@@ -1,5 +1,5 @@
 # desafio-encriptador
-Desafío propuesto por Alura Latam
+Desafío propuesto por Alura Latam.
 Este proyecto es una aplicación web que permite encriptar y desencriptar texto basado en reglas específicas de reemplazo de letras. La aplicación está diseñada para funcionar en un entorno web y está construida utilizando HTML, CSS, y JavaScript.
 
 ## Características
