@@ -48,4 +48,4 @@ Si deseas personalizar las reglas de encriptación, puedes modificar las funcion
 
 ## Autor
 
-Este proyecto fue creado por [Luis Fernando Ochoa Vásquez].
+Este proyecto fue creado por Luis Fernando Ochoa Vásquez.
